@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.kamanda.info/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.kamanda.info/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.kamanda.info/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.kamanda.info/ru.html"/>
+  </url>
+  <url>
+    <loc>https://www.kamanda.info/en.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.kamanda.info/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.kamanda.info/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.kamanda.info/ru.html"/>
+  </url>
+  <url>
+    <loc>https://www.kamanda.info/ru.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.kamanda.info/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.kamanda.info/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.kamanda.info/ru.html"/>
   </url>
 </urlset>
